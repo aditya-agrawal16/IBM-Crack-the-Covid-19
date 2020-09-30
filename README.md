@@ -1,5 +1,5 @@
 # IBM-Crack-the-Covid-19
-This is the solution that we prepared for IBM Crack The Covid-19 hackathon\
+This is the solution that we prepared for IBM Crack The Covid-19 hackathon. Predicts the zone colour based on coordinates.\
 Demo video link is: https://youtu.be/DpGoQBDtExs
  
 ###### Team GG112:
